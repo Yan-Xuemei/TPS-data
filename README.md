@@ -7,4 +7,4 @@ Raw data is used to regenerate the gene synteny network into the "Raw_data" file
 
 The identification results of the BGCs (Biosynthetic Gene Clusters) from the sampled plants into "plantiSMASH_results'
 
-Genomes used in this study of 74 plants in "Table 1".
+Genomes used in this study of 74 plants in "List_of_sampled_plants.xlsx".
