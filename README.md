@@ -2,7 +2,7 @@
 Phylogenetic and gene synteny analysis of the TPS gene across a diverse range of plants and microbes
 
 # Data
-sequence_data: Plant and microbial TPS sequences jointly identified using HMMER search and CDD (https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi);
+[sequence_data](https://github.com/Xuemei-Yan/TPS-data/tree/master/sequences_data): Plant and microbial TPS sequences jointly identified using HMMER search and CDD (https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi);
 
 Newick_format_of_phylogenetic_trees: Newick format of all phylogenetic trees in this study;
 
