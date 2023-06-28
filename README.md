@@ -1,10 +1,16 @@
-# Phylogenetic and gene synteny analysis of the TPS gene across plants and microbes
-TPS gene sequences collected from various microbes and plants into the "sequence_data" file;
+# Description
+Phylogenetic and gene synteny analysis of the TPS gene across a diverse range of plants and microbes
 
-Newick format of phylogenetic trees into the "Newick_format_of_phylogenetic_trees" file;
+# Data
+sequence_data: Plant and microbial TPS sequences jointly identified using HMMER search and CDD (https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi);
 
-Raw data is used to regenerate the gene synteny network into the "Raw_data" file;
+Newick_format_of_phylogenetic_trees: Newick format of all phylogenetic trees in this study;
 
-The identification results of the BGCs (Biosynthetic Gene Clusters) from the sampled plants into "plantiSMASH_results'
+Raw_data: It is used to regenerate the gene synteny network using SynNet-Pipeline (https://github.com/zhaotao1987/SynNet-Pipeline);
 
-Genomes used in this study of 74 plants in "List_of_sampled_plants.xlsx".
+plantiSMASH_results: The Biosynthetic Gene Clusters (BGCs) identied by plantiSMASH (http://plantismash.secondarymetabolites.org/);
+
+List_of_sampled_plants.xlsx: Genomic imformation of the 74 plants used in this study.
+
+
+# Research Publication
